@@ -1,8 +1,8 @@
 # Data Analyst Portfolio
 
-This repository is for the projects I've done.
+This repository is for the project I've done on the possible finalist for the UEFA EURO2021. 
 
-The following are some of the data techniques I used in the projects mentioned above:
+The following are some of the data techniques I used in the project:
 - Exploratory Data Analysis (EDA)
 - Data Wrangling
 - Data Cleaning
@@ -13,7 +13,6 @@ The following are some of the data techniques I used in the projects mentioned a
 
 ## Technical Skills utilized
 * Python
-* R
 * Data Analysis/Wrangling libraries (Numpy, Pandas)
 * Data Visualization libraries (Matplotlib, Seaborn)
 * Microsoft Excel
