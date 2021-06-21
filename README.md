@@ -1,6 +1,8 @@
-# Data Analyst Portfolio
+# EURO2020 Prediction
 
-This repository is for the project I've done on the possible finalist for the UEFA EURO2021. 
+I used data from FIFA 21 to do a statistical analysis in order to predict the winner based on ratings and compensation. P resuming that a player's worth is proportional to his ability 
+
+### This repository is for the project I've done on the possible finalist for the UEFA EURO2021. 
 
 The following are some of the data techniques I used in the project:
 - Exploratory Data Analysis (EDA)
@@ -11,7 +13,7 @@ The following are some of the data techniques I used in the project:
 - SQL for Data Analysis
 - Data Visualization to draw meaningful conclusions
 
-## Technical Skills utilized
+### Technical Skills utilized
 * Python
 * Data Analysis/Wrangling libraries (Numpy, Pandas)
 * Data Visualization libraries (Matplotlib, Seaborn)
