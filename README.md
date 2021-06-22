@@ -1,6 +1,6 @@
 # EURO2020 Prediction
 
-I used data from FIFA 21 to do a statistical analysis in order to predict the winner based on ratings and compensation. P resuming that a player's worth is proportional to his ability 
+I used data from FIFA 21 to do a statistical analysis in order to predict the winner based on ratings and compensation. Presuming that a player's worth is proportional to his ability 
 
 ### This repository is for the project I've done on the possible finalist for the UEFA EURO2021. 
 
